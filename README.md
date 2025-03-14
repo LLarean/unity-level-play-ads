@@ -17,7 +17,7 @@ There are 4 ways to install this:
 - *(via Package Manager)* Select Add package from git URL from the add menu. A text box and an Add button appear. Enter a valid Git URL in the text box:
   - `https://github.com/llarean/unity-level-play-ads.git`
 - *(via Package Manager)* add the following line to *Packages/manifest.json*:
-  - `"com.llarean.level-play-ads": "https://github.com/llarean/unity-level-play-ads.git",`
+  - `"com.llarean.unity-level-play-ads": "https://github.com/llarean/unity-level-play-ads.git",`
 
 ## Warning
 
