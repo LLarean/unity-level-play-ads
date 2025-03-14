@@ -1,0 +1,21 @@
+{
+  "name": "com.llarean.unity-level-play-ads",
+  "displayName": "LevelPlayAds",
+  "version": "0.1.0",
+  "documentationUrl": "https://github.com/LLarean/unity-level-play-ads",
+  "changelogUrl": "https://github.com/llarean/unity-level-play-ads/releases",
+  "licensesUrl": "https://github.com/llarean/unity-level-play-ads/blob/master/LICENSE.md",
+  "description": "The code responsible for initializing and managing Level Play ads",
+  "keywords": [
+    "unity",
+    "ads",
+    "mediation",
+    "ironsource",
+    "levelplay"
+  ],
+  "author": {
+    "name": "LLarean",
+    "email": "llarean@yandex.ru",
+    "url": "https://github.com/LLarean"
+  }
+}
