@@ -12,12 +12,12 @@ The code responsible for initializing and managing [LevelPlay](https://developer
 
 There are 4 ways to install this:
 
+- clone/[download](https://github.com/llarean/unity-level-play-ads/archive/master.zip) this repository and move files to your Unity project's *Assets* folder
 - ~~import [UnityLevelPlayAds.unitypackage](https://github.com/llarean/unity-level-play-ads/releases) via *Assets-Import Package*~~
-- ~~clone/[download](https://github.com/llarean/unity-level-play-ads/archive/master.zip) this repository and move files to your Unity project's *Assets* folder~~
-- *(via Package Manager)* Select Add package from git URL from the add menu. A text box and an Add button appear. Enter a valid Git URL in the text box:
-  - `https://github.com/llarean/unity-level-play-ads.git`
-- *(via Package Manager)* add the following line to *Packages/manifest.json*:
-  - `"com.llarean.unity-level-play-ads": "https://github.com/llarean/unity-level-play-ads.git"`
+- ~~*(via Package Manager)* Select Add package from git URL from the add menu. A text box and an Add button appear. Enter a valid Git URL in the text box:~~
+  - ~~`https://github.com/llarean/unity-level-play-ads.git`~~
+- ~~*(via Package Manager)* add the following line to *Packages/manifest.json*:~~
+  - ~~`"com.llarean.unity-level-play-ads": "https://github.com/llarean/unity-level-play-ads.git"`~~
 
 ## Warning
 
